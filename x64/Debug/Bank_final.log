@@ -1,0 +1,7 @@
+﻿  Bank_final.cpp
+  Accounts.cpp
+C:\Users\1805M\Bank\Accounts.cpp(42,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\1805M\Bank\Accounts.cpp(47,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  User.cpp
+  Generowanie kodu...
+  Bank_final.vcxproj -> C:\Users\1805M\Bank\x64\Debug\Bank_final.exe
